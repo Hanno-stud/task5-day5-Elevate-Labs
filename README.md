@@ -66,7 +66,7 @@ You can upload this dataset manually in the Colab notebook using the upload feat
 ![image](https://github.com/user-attachments/assets/c4262683-1acc-4541-b577-49bae472c029)
 <br/>
 
-Full detailed Output is included in the Python Notebook File.
+Full Detailed Output is included in the Python Notebook File.
 
 ---
 
@@ -81,7 +81,6 @@ Full detailed Output is included in the Python Notebook File.
 7. How do you interpret feature importance?
 8. What are the pros/cons of random forests?
 
-(Answers are included in the final section of the notebook as Markdown)
 
 ---
 
@@ -91,11 +90,5 @@ Full detailed Output is included in the Python Notebook File.
 2. Upload the `heart.csv` file when prompted.
 3. Run each cell step-by-step to see results.
 4. Modify or experiment with model parameters to improve understanding.
-
----
-
-## 📎 Submission
-
-Once complete, upload this project (notebook, dataset, and README) to a GitHub repository and submit your repo link through the provided form.
 
 ---
