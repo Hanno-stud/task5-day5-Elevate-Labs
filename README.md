@@ -79,7 +79,7 @@ You can upload this dataset manually in the Colab notebook using the upload feat
 7. How do you interpret feature importance?
 8. What are the pros/cons of random forests?
 
-(Answers are included in the final section of the notebook as Markdown.)
+(Answers are included in the final section of the notebook as Markdown)
 
 ---
 
