@@ -52,7 +52,6 @@ You can upload this dataset manually in the Colab notebook using the upload feat
 
 ## 📈 Sample Outputs
 
-- Accuracy of Decision Tree and Random Forest
 <br/>
 
 ![image](https://github.com/user-attachments/assets/a93290cd-a252-4b24-963b-6013b96d5357)
@@ -66,11 +65,6 @@ You can upload this dataset manually in the Colab notebook using the upload feat
 
 ![image](https://github.com/user-attachments/assets/c4262683-1acc-4541-b577-49bae472c029)
 <br/>
-
-- Classification reports
-- Confusion matrices
-- Feature importance bar chart
-- Overfitting plot (train vs test accuracy by tree depth)
 
 ---
 
